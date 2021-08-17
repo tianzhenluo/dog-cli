@@ -1,0 +1,3 @@
+#ignore target folder
+node_modules/
+search.json
